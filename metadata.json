@@ -1,0 +1,6 @@
+{
+  "name": "Habit Tracker",
+  "description": "Daily routine habit tracker with streaks, reminders, analytics, badges, and offline Room database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
